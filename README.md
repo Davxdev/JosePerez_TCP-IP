@@ -4,12 +4,14 @@ El documento utiliza una aplicación cliente-servidor simple para calcular el Í
 
 ## Complementos
 
-- [Documento]()
+- [Documento](https://drive.google.com/file/d/1yuO4oOsJn798C1S0D7j3mMSG5_DUk3zj/view?usp=drive_link)
 - [Video]()
 
 ## Estudiante
 
 - José David Pérez Guerra
+
+## SEM8 - SISTEMAS DISTRIBUIDOS - UNICOLOMBO
 
 
 
