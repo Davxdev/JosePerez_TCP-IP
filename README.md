@@ -4,7 +4,7 @@ El documento utiliza una aplicación cliente-servidor simple para calcular el Í
 
 ## Complementos
 
-- [Documento](https://drive.google.com/file/d/1yuO4oOsJn798C1S0D7j3mMSG5_DUk3zj/view?usp=drive_link)
+- [Documento](https://drive.google.com/file/d/1yuO4oOsJn798C1S0D7j3mMSG5_DUk3zj/view?usp=sharing)
 - [Video]()
 
 ## Estudiante
